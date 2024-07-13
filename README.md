@@ -10,8 +10,6 @@
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" /><br> <!-- Cloud and Containerization -->
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br> <!-- Databases -->
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django" /><br> <!-- Web Development -->
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows" /><br> <!-- Operating Systems -->
-    <img src="https://skillicons.dev/icons?i=latex,notion,pr" /><br> <!-- Tools -->
   </a>
 </p>
 
