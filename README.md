@@ -3,16 +3,15 @@
 - I specialize in the intersection of machine learning and cybersecurity, focusing specifically on federated learning techniques to enhance data privacy and security.
 
 
-## My Skills
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django," /><br>
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows" /><br>
-    <img src="https://skillicons.dev/icons?i=latex,notion,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c" /><br> <!-- Programming Languages -->
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" /><br> <!-- Machine Learning Frameworks -->
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" /><br> <!-- Cloud and Containerization -->
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br> <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django" /><br> <!-- Web Development -->
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows" /><br> <!-- Operating Systems -->
+    <img src="https://skillicons.dev/icons?i=latex,notion,pr" /><br> <!-- Tools -->
   </a>
 </p>
 
