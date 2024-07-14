@@ -3,6 +3,7 @@
 - I specialize in the intersection of machine learning and cybersecurity, focusing specifically on federated learning techniques to enhance data privacy and security.
 
 
+## Skills
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c" /><br> <!-- Programming Languages -->
