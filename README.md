@@ -1,5 +1,5 @@
 ## About Me
-Machine Learning Engineer with deep expertise in secure AI, federated learning, and LLM adversarial testing. Proven success in building scalable ML pipelines, GenAI systems, and privacy-preserving architectures.
+Machine Learning Engineer with deep expertise in secure AI, Deep Learning, federated learning, and LLM adversarial testing. Proven success in building scalable ML pipelines, GenAI systems, and privacy-preserving architectures.
 
 ## Skills
 <p align="left">
