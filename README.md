@@ -1,6 +1,10 @@
 ## 👨‍💻 About Me
 Machine Learning Engineer with deep expertise in secure AI, deep learning, federated learning, and LLM adversarial testing. Proven success in building scalable ML pipelines, GenAI systems, and privacy-preserving architectures.
 
+<a href="https://www.linkedin.com/in/kasra-mojallal/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ---
 
 ## ⚙️ Skills & Technologies
