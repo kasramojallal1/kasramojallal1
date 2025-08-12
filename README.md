@@ -1,5 +1,6 @@
 ## 👨‍💻 About Me
-Machine Learning Engineer with deep expertise in secure AI, deep learning, federated learning, and LLM adversarial testing. Proven success in building scalable ML pipelines, GenAI systems, and privacy-preserving architectures.
+Machine Learning Engineer with 4+ years’ experience delivering LLMs, Generative AI and Deep Learning solutions from prototype to production. Skilled in MLOps, AWS, PyTorch, TensorFlow, and privacy-preserving AI, with a track record of reducing costs, speeding deployments, and publishing peer-reviewed AI research.
+
 
 <a href="https://www.linkedin.com/in/kasra-mojallal/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,20 +17,24 @@ Machine Learning Engineer with deep expertise in secure AI, deep learning, feder
 </p>
 
 ### 🧠 Machine Learning & AI  
-Supervised & Unsupervised Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLMs), Federated Learning, Deep Reinforcement Learning, Retrieval Augmented Generation (RAG)
+Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Federated Learning, Reinforcement Learning, Natural Language Processing (NLP), Supervised/Unsupervised Learning, Computer Vision
 
 ### 🔧 ML Frameworks  
-TensorFlow, PyTorch, Keras, MLflow, scikit-learn, NumPy, Pandas, LangChain
+PyTorch, TensorFlow, Keras, scikit-learn, MLflow, LangChain, Hugging Face, NLTK, FastAPI
 
-### 🧬 GenAI & NLP  
-OpenAI API, Hugging Face Transformers, Sentiment Analysis, Named Entity Recognition
+### GenAI Models
+GPT, Claude, Gemini, LLaMA, Mistral, Qwen
 
 ### ☁️ MLOps & Cloud  
-AWS (EC2, ECS, S3, SageMaker), Amazon Bedrock, Azure ML Studio, Azure AI Services, Docker, Apache Airflow, GitHub Actions, CI/CD, Git, Flask, FastAPI, PostgreSQL, MySQL, MongoDB, Chroma, Pinecone
+AWS (SageMaker, EC2, ECS, S3, IAM), Azure AI, Docker, Apache Airflow, GitHub Actions, CI/CD
+
+### Databases
+PostgreSQL, MySQL, MongoDB, Chroma, Pinecone
 
 ### 📊 Visualization  
 Matplotlib, Plotly, seaborn, Gradio, Streamlit
 
 ### 🔐 Security & Privacy  
-Microsoft PyRIT, NVIDIA Garak, Red Teaming, ART, Homomorphic Encryption, Secret Sharing, Differential Privacy, TenSEAL, PySyft, Paillier HE
+PyRIT, ART, Homomorphic Encryption, Secret Sharing, Differential Privacy, TenSEAL
+
 
