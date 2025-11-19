@@ -12,27 +12,21 @@ Machine Learning Engineer with 4+ years’ experience delivering LLMs, Generativ
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,aws,azure,docker,flask,fastapi,django,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,fastapi,django,postgres" /><br>
   </a>
 </p>
 
 ### 🧠 Machine Learning & AI  
-Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Federated Learning, Reinforcement Learning, Natural Language Processing (NLP), Supervised/Unsupervised Learning, Computer Vision
+Deep Learning, LLMs & VLMs, Computer Vision, RAG, Federated Learning, Reinforcement Learning, OCR
 
-### 🔧 ML Frameworks  
-PyTorch, TensorFlow, Keras, scikit-learn, MLflow, LangChain, Hugging Face, NLTK, FastAPI
-
-### GenAI Models
-GPT, Claude, Gemini, LLaMA, Mistral, Qwen
+### 🔧 Frameworks  
+PyTorch, TensorFlow, YOLO, scikit-learn, MLflow, LangChain, Hugging Face, NLTK, FastAPI, PaddleOCR
 
 ### ☁️ MLOps & Cloud  
-AWS (SageMaker, EC2, ECS, S3, IAM), Azure AI, Docker, Apache Airflow, GitHub Actions, CI/CD
+AWS (SageMaker, EC2, ECS, S3, IAM), Docker, Apache Airflow, GitHub Actions, CI/CD
 
 ### Databases
 PostgreSQL, MySQL, MongoDB, Chroma, Pinecone
-
-### 📊 Visualization  
-Matplotlib, Plotly, seaborn, Gradio, Streamlit
 
 ### 🔐 Security & Privacy  
 PyRIT, ART, Homomorphic Encryption, Secret Sharing, Differential Privacy, TenSEAL
