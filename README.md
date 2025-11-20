@@ -15,7 +15,6 @@ Machine Learning Engineer with 4+ years’ experience delivering LLMs, Generativ
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,fastapi,django,postgres" /><br>
   </a>
 </p>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,aws,digitalocean,docker,fastapi,django,postgresql,airflow,githubactions&titles=true)
 
 
 ### 🧠 Machine Learning & AI  
