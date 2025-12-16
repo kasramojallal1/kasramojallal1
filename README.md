@@ -29,7 +29,7 @@ AWS (SageMaker, EC2, ECS, S3, IAM), Docker, Apache Airflow, GitHub Actions, CI/C
 ### Databases
 PostgreSQL, MySQL, MongoDB, Chroma, Pinecone
 
-### 🔐 Security & Privacy  
-PyRIT, ART, Homomorphic Encryption, Secret Sharing, Differential Privacy, TenSEAL
+### Other  
+LLM vulnerability testing
 
 
