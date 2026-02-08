@@ -33,7 +33,6 @@ I build **production AI** across LLMs, computer vision, and retrieval—shipping
   <img src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector%20DBs-111111?style=flat-square&logo=weaviate&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-111111?style=flat-square"/>
-  <img src="https://dashboardicons.com/icons/chroma.svg" height="18" style="vertical-align: -4px; margin-left: -6px; margin-right: 8px;" />
   <img src="https://img.shields.io/badge/LoRA-111111?style=flat-square&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/PEFT-111111?style=flat-square&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
