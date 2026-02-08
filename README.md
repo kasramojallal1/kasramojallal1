@@ -52,7 +52,8 @@ I build **production AI** across LLMs, computer vision, and retrieval—shipping
 ---
 
 ## Selected Work
-- Vision → image segmentation → structured inventory with LLM reasoning  
-- Ingredient mapping via hybrid retrieval (lexical + embeddings)  
-- Automated LLM evaluation / adversarial testing workflows  
-- Robotics + LLM decision loops for 3D packing
+- Computer vision → image segmentation → structured scene understanding with LLM reasoning  
+- Entity normalization & semantic matching using hybrid retrieval (lexical + embeddings)  
+- Automated LLM evaluation, red-teaming, and reliability testing workflows  
+- Robotics + LLM decision loops for 3D packing and spatial planning
+
